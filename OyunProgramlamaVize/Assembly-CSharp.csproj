@@ -60,10 +60,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MenuManager.cs" />
-    <Compile Include="Assets\oyuncu.cs" />
-    <Compile Include="Assets\SaveLoadManager.cs" />
-    <Compile Include="Assets\top.cs" />
+    <Compile Include="Assets\Scripts\MenuManager.cs" />
+    <Compile Include="Assets\Scripts\oyuncu.cs" />
+    <Compile Include="Assets\Scripts\SaveLoadManager.cs" />
+    <Compile Include="Assets\Scripts\top.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/firat/OneDrive/Masaüstü/Github/OyunProgramlamaVizeProjesi/OyunProgramlamaVize/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

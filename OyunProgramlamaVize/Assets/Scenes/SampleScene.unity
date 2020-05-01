@@ -637,6 +637,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
+  oyuncu: {fileID: 785583934}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -873,7 +874,7 @@ MonoBehaviour:
   bombPrefab: {fileID: 50099819387739646, guid: 18f8bc8e858b9ba41a148fe956dd3bfb,
     type: 3}
   bombSpawn: {fileID: 2074597112}
-  bombSpeed: 2895
+  bombSpeed: 1200
   hedef: {fileID: 446132588}
   scoreText: {fileID: 1283348178}
   maxScore: 0
